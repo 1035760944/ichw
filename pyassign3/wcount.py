@@ -2,9 +2,9 @@
 
 """wcount.py: count words from an Internet file.
 
-__author__ = "Zhangsan"
-__pkuid__  = "1600012345"
-__email__  = "zhangsan@pku.edu.cn"
+__author__ = "Bowen Sha"
+__pkuid__  = "1700011072"
+__email__  = "1700011072@pku.edu.cn"
 """
 
 import sys
